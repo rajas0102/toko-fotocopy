@@ -26,13 +26,16 @@
         </table>
         <br>
         <h3>Data Pelanggan</h3>
+        <h3>Data Pelanggan</h3>
 <div class="form-pelanggan">
     <input type="text" name="nama" class="form-half" placeholder="Nama">
     <input type="text" name="telp" class="form-half" placeholder="No Telepon">
     <textarea name="alamat" class="form-textarea" placeholder="Alamat lengkap"></textarea>
 </div>
 
-        <button type="submit">Checkout</button>
-    </form>
+<div class="form-button">
+    <button type="submit">Checkout</button>
+</div>
+
 </body>
 </html>
